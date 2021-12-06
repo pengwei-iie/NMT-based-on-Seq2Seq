@@ -12,14 +12,7 @@ This is a framework for Sequence-to-Sequence (Seq2Seq) models implemented in [Py
 In order to run the program, here are a list of packages with the suggested versions.
 
 ```
-- python   3.6
-- pytorch  1.3.1
-win conda install pytorch==1.3.1
-- horovod  0.18.2
-pip install horovod==0.18.2
-- numpy
-- tqdm
-- fairseq 0.9.0
+直接安装requirements.txt
 ```
 
 
