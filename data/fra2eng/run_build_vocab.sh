@@ -1,0 +1,1 @@
+python build_vocab.py -train_src ./fra_eng.pairs -save_src_vocab src_vocab_file -save_tgt_vocab tgt_vocab_file
